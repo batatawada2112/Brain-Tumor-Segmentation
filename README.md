@@ -21,7 +21,7 @@ Each scan is accompanied by ground truth masks that segment tumor regions into:
 - Peritumoral edema
 - Enhancing tumor
 
-🔗 [Dataset on Kaggle](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation/data)
+[Dataset on Kaggle](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation/data)
 
 ## Model Architecture: U Net
 
